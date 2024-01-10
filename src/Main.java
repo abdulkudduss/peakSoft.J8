@@ -9,7 +9,6 @@ public class Main {
         T.a=sd.nextDouble();
         T.b=sd.nextDouble();
         T.c=sd.nextDouble();
-
         T.area(T.a,T.b,T.c);
     }
 }
